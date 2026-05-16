@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rode Purano Gaan
+
+This log tracks the cryptographic history and versioning for the song **Rode Purano Gaan** (rode-purano-gaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T11:34:11.520801 | `v1` | `b27aa36575b853c4e825fb5a6913eaa45eb3e37bb27ab698fb83356d5e4122df` | `f6c60c25858fde2780fac6540c081ba5e7f9d9872ac6e6f98d863144b4de942e` | `2026-05-16_rode-purano-gaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
