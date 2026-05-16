@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rode-purano-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Rode Purano Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rode-purano-gaan/) |
+| **Get License** | [Get a Licensing Quote for Rode Purano Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rode-purano-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা হাওয়ায় আজ মাতাল এ রাত
+> তোমার ঐ ছোঁয়ায় আমি হারিয়েছি জাত
+> চোখে চোখে কথা হোক শ্রাবণের ধারায়
+> উষ্ণ এ শিহরণ আমাকে জাগায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
